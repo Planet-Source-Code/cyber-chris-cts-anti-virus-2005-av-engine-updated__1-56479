@@ -1,0 +1,10 @@
+ÿÂCC Antivir 2004
+	(c) Copyright by Cyber Chris
+	cyber_chris235@gmx.net
+
+Startup Parameters:
+	/s + Filename  Scans the given filename	[e.g. antivirus /s c:\infected.vbs]
+	/gui	       Starts the program as usual [e.g. antivirus /gui]
+	/update	       Lets the program download the latest update [e.g. antivirus /update]
+	/check	       Shows the scanfile Dialog	[e.g. antivirus /check]
+	/t	       Shows only the tray windows	[e.g. antivirus /t]

@@ -1,0 +1,9 @@
+How to run CTS AntiVirus2005
+
+1) Unzip the Zip file
+2) Enter the directory /AVProject/
+3) Run the AVEngine.vbp
+4) Compile it to AVEngine.dll into the same directory where AVEngine.vbp and CTSAntiVirus 2005.vbp are!!!
+5) Unload the AVEngine.vbp
+6) Start CTS AntiVirus 2005.vbp
+--> Now you can run the program
