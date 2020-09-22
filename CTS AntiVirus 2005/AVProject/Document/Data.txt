@@ -1,0 +1,13 @@
+               © Copyright by Cyber Chris (CTS)
+
+	         cyber_chris235@gmx.net
+	                 www.cts.sub.cc 
+
+This code may only be reused and modified with the written
+permission of the author and only as long as credit is given 
+to the programmer in the programm's about box and it's 
+documentation.
+
+The source is freely available at http://www.cts.sub.cc and
+http://www.pscode.com
+

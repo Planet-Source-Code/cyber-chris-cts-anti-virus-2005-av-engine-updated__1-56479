@@ -1,0 +1,218 @@
+03.17.2004 19:58 000: [Virus found] Hallo
+03.17.2004 20:04 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in D:\Dokumente und Einstellungen\Christian\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\scripttext.vbs
+03.17.2004 20:05 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in D:\Dokumente und Einstellungen\Christian\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\scripttext.vbs
+03.17.2004 20:05 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in D:\Dokumente und Einstellungen\Christian\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\scripttext.vbs
+03.17.2004 20:05 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in D:\Dokumente und Einstellungen\Christian\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\scripttext.vbs
+03.17.2004 20:06 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in D:\Dokumente und Einstellungen\Christian\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\scripttext.vbs
+03.17.2004 20:06 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in D:\Dokumente und Einstellungen\Christian\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\scripttext.vbs
+03.17.2004 20:06 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in D:\Dokumente und Einstellungen\Christian\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\scripttext.vbs
+03.17.2004 20:06 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in D:\Dokumente und Einstellungen\Christian\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\scripttext.vbs
+03.22.2004 21:37 000: [] Fehler: Index außerhalb des gültigen Bereichs modAntivir.Main
+03.22.2004 21:37 000: [] Fehler: Index außerhalb des gültigen Bereichs modAntivir.Main
+03.22.2004 21:37 000: [] Fehler: Index außerhalb des gültigen Bereichs modAntivir.Main
+03.22.2004 21:39 000: [] Fehler: Index außerhalb des gültigen Bereichs modAntivir.Main
+03.22.2004 21:39 000: [] Fehler: Überlauf modAntivir.Main
+03.22.2004 21:40 000: [] Fehler: Überlauf modAntivir.Main
+03.22.2004 21:41 000: [] Fehler: Überlauf modAntivir.Main
+03.22.2004 21:42 000: [] Fehler: Überlauf modAntivir.Main
+03.22.2004 21:42 000: [] Fehler: Überlauf modAntivir.Main
+03.22.2004 21:43 000: [] Fehler: Überlauf modAntivir.Main
+03.22.2004 21:44 000: [] Fehler: Überlauf modAntivir.Main
+03.22.2004 21:46 000: [] Fehler: Überlauf modAntivir.Main
+03.22.2004 21:51 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in D:\Dokumente und Einstellungen\Christian\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\scripttext.vbs
+03.22.2004 21:51 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in D:\Dokumente und Einstellungen\Christian\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\scripttext.vbs
+04.16.2004 19:14 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\scripttext.vbs
+04.16.2004 19:14 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\scripttext.vbs
+04.16.2004 19:20 000: [] Fehler: Index außerhalb des gültigen Bereichs modAntivir.Main
+04.16.2004 19:22 000: [] Fehler: Index außerhalb des gültigen Bereichs modAntivir.Main
+04.16.2004 19:22 000: [] Fehler: Index außerhalb des gültigen Bereichs modAntivir.Main
+04.16.2004 19:22 000: [] Fehler: Index außerhalb des gültigen Bereichs modAntivir.Main
+04.16.2004 19:25 000: [] Fehler: Index außerhalb des gültigen Bereichs modAntivir.Main
+04.16.2004 19:35 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\scripttext.vbs
+04.16.2004 19:35 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\scripttext.vbs
+04.16.2004 19:35 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\scripttext.vbs
+04.16.2004 19:35 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\scripttext.vbs
+04.16.2004 19:35 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\scripttext.vbs
+04.16.2004 19:35 000: [Virus found] Eicar Testvirus (Nothing) - d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\scripttext.vbs
+04.16.2004 19:35 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\scripttext.vbs
+04.16.2004 19:35 000: [Virus action] Alert ignored: Eicar Testvirus (Nothing)
+04.16.2004 19:35 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\scripttext.vbs
+04.17.2004 07:02 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\scripttext.vbs
+04.17.2004 07:03 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\scripttext.vbs
+04.17.2004 07:03 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\scripttext.vbs
+04.18.2004 12:01 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\scripttext.vbs
+04.18.2004 12:01 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\scripttext.vbs
+04.18.2004 12:01 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\scripttext.vbs
+04.18.2004 12:01 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\scripttext.vbs
+04.18.2004 12:01 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\scripttext.vbs
+04.18.2004 12:09 000: [] Fehler: Division durch Null frMmain.Startup
+04.18.2004 12:27 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\ddd.exe
+04.18.2004 12:27 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\ddd.exe
+04.18.2004 12:27 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\ddd.exe
+04.18.2004 12:28 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\ddd.exe
+04.18.2004 12:28 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\ddd.exe
+04.18.2004 12:28 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\ddd.exe
+04.18.2004 12:28 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\ddd.exe
+04.18.2004 12:28 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\ddd.exe
+04.18.2004 12:28 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\ddd.exe
+04.18.2004 12:28 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\ddd.exe
+04.18.2004 12:28 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\ddd.exe
+04.18.2004 12:28 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\ddd.exe
+04.18.2004 12:28 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\ddd.exe
+04.18.2004 12:28 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\ddd.exe
+04.18.2004 12:29 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\ddd.exe
+04.18.2004 12:29 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\ddd.exe
+04.18.2004 12:29 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\ddd.exe
+04.18.2004 12:29 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\ddd.exe
+04.18.2004 12:38 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\TestVirus\Virus.exe
+04.18.2004 12:39 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\TestVirus\Virus.exe
+04.18.2004 12:39 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\TestVirus\Virus.exe
+04.18.2004 12:39 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\TestVirus\Virus.exe
+04.18.2004 12:39 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\TestVirus\Virus.exe
+04.18.2004 12:44 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\TestVirus\Virus.exe
+04.18.2004 12:44 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\TestVirus\Virus.exe
+04.18.2004 12:44 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\TestVirus\Virus.exe
+04.18.2004 12:45 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\TestVirus\ddd.exe
+04.18.2004 12:47 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\TestVirus\Virus.exe
+04.18.2004 12:47 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\TestVirus\Virus.exe
+04.18.2004 12:48 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\TestVirus\Virus.exe
+04.18.2004 12:48 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\TestVirus\Virus.exe
+04.18.2004 12:48 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\TestVirus\Virus.exe
+04.18.2004 12:48 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in d:\eigene dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\TestVirus\Virus.exe
+04.21.2004 20:03 000: [Error] Fehler: Ungültiger Prozeduraufruf oder ungültiges Argument modAntivir.Checkfile
+04.21.2004 20:03 000: [Error] Fehler: Ungültiger Prozeduraufruf oder ungültiges Argument modAntivir.Checkfile
+04.21.2004 20:03 000: [Error] Fehler: Ungültiger Prozeduraufruf oder ungültiges Argument modAntivir.Checkfile
+04.21.2004 20:05 000: [Error] Fehler: Ungültiger Prozeduraufruf oder ungültiges Argument modAntivir.Checkfile
+04.21.2004 20:05 000: [Error] Fehler: Ungültiger Prozeduraufruf oder ungültiges Argument modAntivir.Checkfile
+04.21.2004 20:06 000: [Error] Fehler: Ungültiger Prozeduraufruf oder ungültiges Argument modAntivir.Checkfile
+04.28.2004 13:32 000: [] Fehler: Index außerhalb des gültigen Bereichs frMmain.Startup
+04.28.2004 13:35 000: [] Fehler: Index außerhalb des gültigen Bereichs modAntivir.Main
+04.28.2004 13:36 000: [] Fehler: Index außerhalb des gültigen Bereichs modAntivir.Main
+04.28.2004 13:39 000: [] Fehler: Index außerhalb des gültigen Bereichs modAntivir.Main
+04.29.2004 19:50 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in D:\Dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\TestVirus\Neu Textdokument.exe
+04.29.2004 19:50 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in D:\Dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\TestVirus\Neu Textdokument.exe
+04.29.2004 19:50 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in D:\Dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\TestVirus\Neu Textdokument.exe
+04.29.2004 19:50 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in D:\Dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\TestVirus\Neu Textdokument.exe
+04.29.2004 19:59 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in D:\Dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\TestVirus\Neu Textdokument.exe
+04.29.2004 19:59 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in D:\Dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\TestVirus\Neu Textdokument.exe
+04.29.2004 19:59 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in D:\Dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\TestVirus\Neu Textdokument.exe
+04.29.2004 19:59 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in D:\Dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\TestVirus\Neu Textdokument.exe
+04.29.2004 19:59 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in D:\Dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\TestVirus\Neu Textdokument.exe
+04.30.2004 18:15 000: [] Fehler: Datei nicht gefunden modAntivir.Main
+05.01.2004 17:02 000: [] Fehler: Datei nicht gefunden modAntivir.Main
+08.30.2004 16:57 000: [] Error: Dateiname oder -nummer falsch frMmain.Startup
+08.30.2004 16:58 000: [] Error: Dateiname oder -nummer falsch frMmain.Startup
+08.30.2004 17:05 000: [] Error: Dateiname oder -nummer falsch frMmain.Startup
+08.30.2004 17:05 000: [] Error: Dateiname oder -nummer falsch frMmain.Startup
+08.31.2004 09:31 000: [Error] Error: Element '3' des Steuerelementfelds existiert nicht frMmain.Startup
+08.31.2004 09:32 000: [Error] Error: Element '3' des Steuerelementfelds existiert nicht frMmain.Startup
+08.31.2004 09:32 000: [Error] Error: Element '3' des Steuerelementfelds existiert nicht frMmain.Startup
+08.31.2004 09:33 000: [Error] Error: Element '3' des Steuerelementfelds existiert nicht frMmain.Startup
+08.31.2004 09:33 000: [Error] Error: Element '3' des Steuerelementfelds existiert nicht frMmain.Startup
+08.31.2004 09:34 000: [Error] Error: Element '3' des Steuerelementfelds existiert nicht frMmain.Startup
+08.31.2004 09:34 000: [Error] Error: Element '3' des Steuerelementfelds existiert nicht frMmain.Startup
+08.31.2004 09:35 000: [Error] Error: Element '3' des Steuerelementfelds existiert nicht frMmain.Startup
+08.31.2004 09:35 000: [Error] Error: Element '3' des Steuerelementfelds existiert nicht frMmain.Startup
+08.31.2004 09:35 000: [Error] Error: Element '3' des Steuerelementfelds existiert nicht frMmain.Startup
+08.31.2004 09:37 000: [Error] Error: Element '3' des Steuerelementfelds existiert nicht frMmain.Startup
+08.31.2004 09:42 000: [Error] Error: Element '3' des Steuerelementfelds existiert nicht frMmain.Startup
+08.31.2004 09:42 000: [Error] Error: Element '3' des Steuerelementfelds existiert nicht frMmain.Startup
+08.31.2004 09:44 000: [Error] Error: Element '3' des Steuerelementfelds existiert nicht frMmain.Startup
+08.31.2004 09:45 000: [Error] Error: Element '3' des Steuerelementfelds existiert nicht frMmain.Startup
+08.31.2004 09:46 000: [Error] Error: Element '3' des Steuerelementfelds existiert nicht frMmain.Startup
+08.31.2004 09:49 000: [Error] Error: Element '3' des Steuerelementfelds existiert nicht frMmain.Startup
+08.31.2004 09:50 000: [Error] Error: Element '3' des Steuerelementfelds existiert nicht frMmain.Startup
+08.31.2004 09:51 000: [Error] Error: Element '3' des Steuerelementfelds existiert nicht frMmain.Startup
+08.31.2004 09:52 000: [Error] Error: Element '3' des Steuerelementfelds existiert nicht frMmain.Startup
+08.31.2004 09:55 000: [Error] Error: Element '3' des Steuerelementfelds existiert nicht frMmain.Startup
+08.31.2004 09:55 000: [Error] Error: Element '3' des Steuerelementfelds existiert nicht frMmain.Startup
+08.31.2004 10:04 000: [Error] Error: Element '3' des Steuerelementfelds existiert nicht frMmain.Startup
+08.31.2004 10:04 000: [Virus found] Destructive Code (VBS Worm) - J:\Website\RemoveWeird.exe
+08.31.2004 10:04 000: [Virus found] Virus found: Destructive Code (VBS Worm) in J:\Website\RemoveWeird.exe
+08.31.2004 10:04 000: [Virus action] Alert ignored: Destructive Code (VBS Worm)
+08.31.2004 10:04 000: [Virus found] Destructive Code (VBS Worm) - J:\Website\RemoveWeird.exe
+08.31.2004 10:04 000: [Virus found] Virus found: Destructive Code (VBS Worm) in J:\Website\RemoveWeird.exe
+08.31.2004 10:04 000: [Virus action] Alert ignored: Destructive Code (VBS Worm)
+08.31.2004 10:04 000: [Virus found] Destructive Code (VBS Worm) - J:\Website\RemoveWeird.exe
+08.31.2004 10:04 000: [Virus found] Virus found: Destructive Code (VBS Worm) in J:\Website\RemoveWeird.exe
+08.31.2004 10:10 000: [Error] Error: Element '3' des Steuerelementfelds existiert nicht frMmain.Startup
+08.31.2004 10:10 000: [Error] Error: Element '3' des Steuerelementfelds existiert nicht frMmain.Startup
+08.31.2004 10:15 000: [Error] Error: Element '3' des Steuerelementfelds existiert nicht frMmain.Startup
+08.31.2004 10:15 000: [Virus found] Destructive Code (VBS Worm) - J:\Website\RemoveWeird.exe
+08.31.2004 10:15 000: [Virus found] Virus found: Destructive Code (VBS Worm) in J:\Website\RemoveWeird.exe
+08.31.2004 10:17 000: [Error] Error: Element '3' des Steuerelementfelds existiert nicht frMmain.Startup
+08.31.2004 10:17 000: [Virus found] Destructive Code (VBS Worm) - J:\Website\RemoveWeird.exe
+08.31.2004 10:17 000: [Virus found] Virus found: Destructive Code (VBS Worm) in J:\Website\RemoveWeird.exe
+08.31.2004 10:17 000: [Error] Error: Element '3' des Steuerelementfelds existiert nicht frMmain.Startup
+08.31.2004 10:20 000: [Error] Error: Element '3' des Steuerelementfelds existiert nicht frMmain.Startup
+08.31.2004 10:21 000: [Error] Error: Element '3' des Steuerelementfelds existiert nicht frMmain.Startup
+08.31.2004 10:26 000: [Error] Error: Element '3' des Steuerelementfelds existiert nicht frMmain.Startup
+08.31.2004 10:27 000: [Error] Error: Element '3' des Steuerelementfelds existiert nicht frMmain.Startup
+08.31.2004 10:28 000: [Error] Error: Element '3' des Steuerelementfelds existiert nicht frMmain.Startup
+08.31.2004 10:28 000: [Error] Error: Element '3' des Steuerelementfelds existiert nicht frMmain.Startup
+08.31.2004 10:52 000: [Virus found] Destructive Code (VBS Worm) - L:\\bittorrent-3.3.exe
+08.31.2004 10:52 000: [Virus found] Virus found: Destructive Code (VBS Worm) in L:\\bittorrent-3.3.exe
+08.31.2004 11:08 000: [Virus action] File desecured:
+08.31.2004 11:56 000: [Virus found] Destructive Code (VBS Worm) - L:\\bittorrent-3.3.exe
+08.31.2004 11:56 000: [Virus found] Virus found: Destructive Code (VBS Worm) in L:\\bittorrent-3.3.exe
+08.31.2004 13:13 000: [Virus found] Destructive Code (VBS Worm) - L:\\bittorrent-3.3.exe
+08.31.2004 13:13 000: [Virus found] Virus found: Destructive Code (VBS Worm) in L:\\bittorrent-3.3.exe
+08.31.2004 13:13 000: [Virus action] Alert ignored: Destructive Code (VBS Worm)
+08.31.2004 18:20 000: [Error] Error: Nicht genügend Zeichenfolgenspeicher modAntivir.Filetext
+09.01.2004 14:48 000: [Error] Error: Zugriff verweigert modAntivir.Checkfile
+09.02.2004 08:20 000: [] Error: Objekt unterstützt diese Eigenschaft oder Methode nicht frMmain.Startup
+09.02.2004 09:23 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in C:\a.exe 
+09.02.2004 09:25 000: [Error] Error: Datei nicht gefunden modAntivir.Checkfile
+09.02.2004 09:26 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in C:\\a.exe
+09.02.2004 09:27 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in C:\\a.exe
+09.02.2004 09:27 000: [Error] Error: Datei nicht gefunden modAntivir.Checkfile
+09.02.2004 09:27 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in C:\\a.exe
+09.02.2004 09:27 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in C:\\a.exe
+09.02.2004 09:27 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in C:\\a.exe
+09.02.2004 09:28 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in C:\\a.exe
+09.02.2004 09:28 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in C:\\a.exe
+09.02.2004 09:28 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in C:\\a.exe
+09.02.2004 09:28 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in C:\\a.exe
+09.02.2004 09:29 000: [Error] Error: Datei nicht gefunden modAntivir.Checkfile
+09.02.2004 09:29 000: [Error] Error: Pfad nicht gefunden modAntivir.Checkfile
+09.02.2004 09:30 000: [Error] Error: Pfad nicht gefunden modAntivir.Checkfile
+09.02.2004 09:31 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in c:\ziptemp\a.exe
+09.02.2004 09:31 000: [Error] Error: Objekt erforderlich modAntivir.Checkfile
+09.02.2004 09:31 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in c:\ziptemp\a.exe
+09.02.2004 09:31 000: [Error] Error: Objekt erforderlich modAntivir.Checkfile
+09.02.2004 09:32 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in c:\ziptemp\a.exe
+09.02.2004 09:32 000: [Error] Error: Objekt erforderlich modAntivir.Checkfile
+09.02.2004 09:32 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in c:\ziptemp\a.exe
+09.02.2004 09:32 000: [Error] Error: Objekt erforderlich modAntivir.Checkfile
+09.02.2004 09:33 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in c:\ziptemp\a.exe
+09.02.2004 09:33 000: [Error] Error: Objekt erforderlich modAntivir.Checkfile
+09.02.2004 09:33 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in c:\ziptemp\a.exe
+09.02.2004 09:33 000: [Error] Error: Objekt erforderlich modAntivir.Checkfile
+09.02.2004 09:34 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in c:\ziptemp\a.exe
+09.02.2004 09:34 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in C:\a.zip@a.exe stored in C:\a.zip
+09.02.2004 09:35 000: [Error] Error: Pfad nicht gefunden modAntivir.Checkfile
+09.02.2004 09:35 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in c:\ziptemp\a.exe
+09.02.2004 09:35 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in C:\a.zip@\a.exe stored in C:\a.zip
+09.02.2004 09:35 000: [Error] Error: Pfad nicht gefunden modAntivir.Checkfile
+09.02.2004 09:35 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in c:\ziptemp\a.exe
+09.02.2004 09:36 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in C:\a.zip@a.exe stored in C:\a.zip
+09.02.2004 09:36 000: [Error] Error: Pfad nicht gefunden modAntivir.Checkfile
+09.02.2004 09:37 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in c:\ziptemp\a.exe
+09.02.2004 09:37 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in C:\a.zip@a.exe stored in C:\a.zip
+09.02.2004 09:37 000: [Error] Error: Pfad nicht gefunden modAntivir.Checkfile
+09.02.2004 09:37 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in c:\ziptemp\a.exe
+09.02.2004 09:39 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in c:\ziptemp\a.exe
+09.02.2004 09:39 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in C:\a.zip@a.exe stored in C:\a.zip
+09.02.2004 09:39 000: [Error] Error: Pfad nicht gefunden modAntivir.Checkfile
+09.02.2004 09:39 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in c:\ziptemp\a.exe
+09.02.2004 09:39 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in C:\a.zip@a.exe stored in C:\a.zip
+09.02.2004 09:40 000: [Error] Error: Pfad nicht gefunden modAntivir.Checkfile
+09.02.2004 09:41 000: [Error] Error: Fehler beim Zugriff auf Pfad/Datei modAntivir.Checkfile
+09.02.2004 09:41 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in C:\\a.exe
+09.02.2004 09:41 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in C:\\a.exe
+09.02.2004 09:41 000: [Error] Error: Fehler beim Zugriff auf Pfad/Datei modAntivir.Checkfile
+09.02.2004 09:41 000: [Error] Error: Fehler beim Zugriff auf Pfad/Datei modAntivir.Checkfile
+09.03.2004 09:43 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in C:\\a.exe
+09.03.2004 09:43 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in C:\\a.exe
+09.03.2004 09:43 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in C:\\a.exe
+09.03.2004 09:43 000: [Virus found] Virus found: Eicar Testvirus (Nothing) in C:\\a.exe

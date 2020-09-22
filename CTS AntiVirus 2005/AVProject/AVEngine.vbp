@@ -1,0 +1,48 @@
+Type=OleDll
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#C:\WINDOWS\system32\stdole2.tlb#OLE Automation
+Class=Engine; Class\Engine.cls
+Module=modFileOperations; Mods\engineModFileOperations.bas
+Class=cCRC32; Class\enginecCRC32.cls
+Class=cBinaryFileStream; Class\enginecBinaryFileStream.cls
+Class=cInString; Class\enginecInString.cls
+Form=Form\enginefrmAbout.frm
+Startup="(None)"
+HelpFile=""
+Title="AVEngine"
+ExeName32="AVEngine.dll"
+Command32=""
+Name="AntiVirus"
+HelpContextID="0"
+CompatibleMode="0"
+CompatibleEXE32="AVEngine.dll"
+MajorVer=1
+MinorVer=0
+RevisionVer=32
+AutoIncrementVer=1
+ServerSupportFiles=0
+VersionComments="cyber_chris235@gmx.net"
+VersionCompanyName="CTS"
+VersionLegalCopyright="© Copyright by CTS"
+CompilationType=0
+OptimizationType=0
+FavorPentiumPro(tm)=0
+CodeViewDebugInfo=0
+NoAliasing=0
+BoundsCheck=0
+OverflowCheck=0
+FlPointCheck=0
+FDIVCheck=0
+UnroundedFP=0
+StartMode=1
+Unattended=0
+Retained=0
+ThreadPerObject=0
+MaxNumberOfThreads=1
+ThreadingModel=1
+DebugStartupOption=0
+
+[MS Transaction Server]
+AutoRefresh=1
+
+[AppForge Global]
+MODID=84EC72CC-72D5-470E-B7E8-4C05A357416A
